@@ -1,26 +1,18 @@
-# Squibbon Image Repository
+# Squibbon Info
 
-Reference images of Squibbons from "The Future is Wild" and fan creations.
+Background information, reference materials, and resources about Squibbons from "The Future is Wild."
 
 ## What is a Squibbon?
 
-A Squibbon is a fictional creature from the documentary series "The Future is Wild" - 
-a squid that evolved 200 million years in the future to swing through trees like a gibbon.
-They have large eyes, tentacles adapted for gripping branches, and are highly intelligent.
+A Squibbon is a fictional creature from the documentary series "The Future is Wild" — a squid that evolved 200 million years in the future to swing through trees like a gibbon. They have large eyes on stalks, tentacles adapted for gripping branches, and are the most intelligent animals of their era.
 
-## Directory Structure
+## Contents
 
-- `official/` - Images from The Future is Wild documentary/media
-- `fan-art/` - Fan-created artwork from DeviantArt and other sources
-- `screenshots/` - Screenshots from video episodes
-- `references/` - Anatomical references, concept art, etc.
+- `images/` - Reference imagery
+  - `official/` - Images from The Future is Wild documentary/media
+  - `fan-art/` - Links to fan-created artwork
+  - `references/` - Anatomical references and notes
 
-## Usage
+## About
 
-These images are collected for reference purposes to understand Squibbon anatomy,
-movement, and character for creating custom art, icons, and profile pictures.
-
-## Credits
-
-All official images © The Future is Wild Ltd / Discovery Channel
-Fan art credited to respective artists where known
+This repository supports the development of Evity, a Squibbon-inspired AI assistant.
